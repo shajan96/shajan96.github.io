@@ -4057,8 +4057,8 @@ input, select, textarea {
 	* {box-sizing:border-box}
 
 	/* Container for skill bars */
-	.container {
-  		width: 100%; /* Full width */
+	.containerS {
+  		width: 65%; /* Full width */
   		background-color: #ddd; /* Grey background */
   	}
 
